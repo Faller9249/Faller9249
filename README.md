@@ -1,16 +1,46 @@
-### Hi there 👋
+### Hi there 👋, I'm Eduardo Faller
 
-<!--
-**Faller9249/Faller9249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Título do Projeto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Teste de habilidades básicas com desenvolvimento front end utilizando a framework Angular proposto pela empresa Evo One. 
+
+# Base em que o layout foi criado (hospedado no figma):
+
+
+####  https://www.figma.com/file/lqCqO8IrUgLh7oEOEdFnWu/Angular-teste?t=YqYjFgZeg5CYw3YH-0
+
+
+# Consumindo dado via Api GraphQL pegos pela endpoit da requisição:
+
+| Endpoint   | x-api-key       | método                           |
+| :---------- | :--------- | :---------------------------------- |
+| https://xsksoss2sneujaauha6u5wqzsq.appsync-api.us-west-1.amazonaws.com/graphql | da2-kpri4rkkvff25eutvkohvyzbdm | post |
+
+# Integração da aplicação google maps:
+
+#### https://angular-maps.com/guides/getting-started/
+
+
+
+
+## Documentação da Aplicação
+
+#### instalar dependencias
+
+```http
+  npm install 
+```
+
+#### startar Aplicação
+
+```http
+  ng server
+```
+
+Recebe dois números e retorna a sua soma
+## Autores
+
+- [@faller9249](https://www.github.com/faller9249)
+
+
